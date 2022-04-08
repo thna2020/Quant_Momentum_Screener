@@ -7,3 +7,5 @@ Momentum investing refers to investing in assets that have increased in price th
 ## Momentum Strategy Backtest with Historical Data from 01/01/2021 to 12/31/2021.
 
 ![](momentum_backtest.png)
+
+Our portfolio built from momentum strategy has consistently led to better cumulative returns, relative to SPY from 01/01/2021 to 12/31/2021.
