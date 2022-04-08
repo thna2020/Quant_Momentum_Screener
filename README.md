@@ -6,4 +6,4 @@ Momentum investing refers to investing in assets that have increased in price th
 
 ## Momentum Strategy Backtest with Historical Data from 01/01/2021 to 12/31/2021.
 
-1[](momentum_backtest.png)
+![](momentum_backtest.png)
